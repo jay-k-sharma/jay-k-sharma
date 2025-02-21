@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jay-k-sharma&color=fb4362)
 
-<h3>When I code, I rely on</h3>
+<h3>When I code, I rely on:</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,12 +34,15 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-If you like my work and want to help a young coder stay focused , why not treat me to a cup of coffee/tea:
+<h3>Based in Canada, I'm currently looking for job opportunities. Contact me for job opportunities at:</h3>
+<h2> sharmakjay@gmail.com </h2>
 
-<a href="https://buymeacoffee.com/jay.sharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
+<h3>If you like my work and want to help a young coder stay focused, why not treat me to a cup of coffee:</h3>
 
-<h3>My GitHub contributions summary</h3>
+<a href="https://buymeacoffee.com/jay.sharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="250" ></a>
+
+<h3>My GitHub contributions summary:</h3>
 
 [![Jay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jay-k-sharma&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-k-sharma&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[comment]:![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-k-sharma&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
