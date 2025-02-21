@@ -35,11 +35,11 @@
 </p>
 
 <h3>Based in Canada, I'm currently looking for job opportunities. Contact me for job opportunities at:</h3>
-<h2> sharmakjay@gmail.com </h2>
+<h4> sharmakjay@gmail.com </h4>
 
 <h3>If you like my work and want to help a young coder stay focused, why not treat me to a cup of coffee:</h3>
 
-<a href="https://buymeacoffee.com/jay.sharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="250" ></a>
+<a href="https://buymeacoffee.com/jay.sharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="190" ></a>
 
 <h3>My GitHub contributions summary:</h3>
 
