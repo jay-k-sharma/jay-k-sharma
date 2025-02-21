@@ -35,7 +35,7 @@
 </p>
 
 <h3>Based in Canada, I'm currently looking for job opportunities. If you like my work and want to reach out, you can email me at:</h3>
-<h4> [Email Me](emailto:sharmakjay@gmail.com){: .btn}  </h4>
+<h4>[Link Text](mailto:sharmakjay@gmail.com)</h4>
 
 <h3>If you like my work and want to help a young coder stay focused, treat me to a cup of coffee:</h3>
 
