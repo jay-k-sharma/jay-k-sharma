@@ -34,7 +34,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-If you like my work, help me stay focussed and treat me to a cup of coffee/tea:
+If you like my work and want to help a young coder stay focused , why not treat me to a cup of coffee/tea:
 
 <a href="https://buymeacoffee.com/jay.sharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" width="150" ></a>
 
