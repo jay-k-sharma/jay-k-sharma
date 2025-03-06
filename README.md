@@ -34,9 +34,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>Based in Canada, I'm currently looking for job opportunities. If you like my work and want to reach out, you can email me at:</h3>
-<h4>sharmakjay@gmail.com</h4>
-
 <h3>If you like my work and want to help a young coder stay focused, treat me to a cup of coffee:</h3>
 
 <a href="https://buymeacoffee.com/jay.sharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" width="190" ></a>
